@@ -1,11 +1,11 @@
-# Kybersecurity-for-dummies
-Supplements to the presentation given on 19. 12. 2019 at MGO
+# Cybersecurity-for-~~dummies~~ debaters
 
 
 # Odkazy
 ## Pro neplavce:
-https://security.muni.cz/cybercompass
-https://haveibeenpwned.com/
+*Kyberkompas MUNI:* https://security.muni.cz/cybercompass \\
+*HaveIBeenPwned:* https://haveibeenpwned.com/ \\
 
 ## Odkazy pro zdatnější
+*DarkNet Diaries - podcast:* https://darknetdiaries.com/
 
