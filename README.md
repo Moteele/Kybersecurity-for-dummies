@@ -3,9 +3,10 @@
 
 # Odkazy
 ## Pro neplavce:
-*Kyberkompas MUNI:* https://security.muni.cz/cybercompass \\
-*HaveIBeenPwned:* https://haveibeenpwned.com/ \\
+1. *Kyberkompas MUNI:* https://security.muni.cz/cybercompass
+2. *HaveIBeenPwned:* https://haveibeenpwned.com/
 
 ## Odkazy pro zdatnější
-*DarkNet Diaries - podcast:* https://darknetdiaries.com/
+1. *DarkNet Diaries - podcast:* https://darknetdiaries.com/
+2. *Unsupervised Learning: - podcast and newsletter:* https://danielmiessler.com/
 
